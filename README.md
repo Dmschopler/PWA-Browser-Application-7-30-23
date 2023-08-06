@@ -11,4 +11,4 @@ Jate is a progressive web application which is also a text editor that runs in t
 
 ## Deployed Application
 
-If you want to see the application for yourself you can check it out [here]()
+If you want to see the application for yourself you can check it out [here](https://single-page-application-d477b6cb6dc3.herokuapp.com/)
